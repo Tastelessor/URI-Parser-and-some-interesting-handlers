@@ -1,0 +1,22 @@
+# ninja log v5
+18	958	6770977312242401	Google_tests/lib/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	d47a0d85d3ac1149
+1	191	6773749053816793	build.ninja	e9c2880069b882b1
+2	316	6769174703569135	CMakeFiles/untitled.dir/main.cpp.obj	7f809fd09b62e62a
+14	988	6771737269060961	Google_tests/CMakeFiles/Google_tests.dir/URIParserTests.cpp.obj	97318d0bacf97b80
+385	515	6771740874248305	untitled.exe	2bac18e322a6cf60
+3	331	6769198533617820	CMakeFiles/untitled.dir/Q1.cpp.obj	3809c76c7afcbc80
+988	3434	6771737293479185	Google_tests/Google_tests.exe	eaa1476ea14e3bdf
+3	385	6771740872964729	CMakeFiles/untitled.dir/Main.cpp.obj	6d35aada31a0df5a
+10	322	6769196993974774	CMakeFiles/untitled.dir/Check.cpp.obj	b77ed0f864f7760c
+30	561	6770919518826021	CMakeFiles/untitled.dir/checkFiles/checkSSH.cpp.obj	7c22551e5507f979
+13	792	6770167906396049	CMakeFiles/untitled.dir/checkSSH.cpp.obj	b1eb47191c54aacc
+19	563	6770919518856022	CMakeFiles/untitled.dir/checkFiles/Check.cpp.obj	414cd4a63660c321
+12	340	6771740872520841	CMakeFiles/untitled.dir/URI/URIParser.cpp.obj	5d8cb2405af856b1
+10	5398	6770977356525381	Google_tests/lib/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	e091f1d1b8e20ca2
+5401	7410	6770977376772496	lib/libgtest.a	c363a087a74c6a39
+7410	7515	6770977377833715	lib/libgtest_main.a	fca6ae199b904f70
+4	359	6771737262765828	Google_tests/CMakeFiles/Google_tests.dir/__/URI/URIParser.cpp.obj	64053b27aa04ac93
+9	449	6773749053816793	build.ninja	e9c2880069b882b1
+3	336	6773749057557517	CMakeFiles/untitled.dir/checkFiles/checkSSH.cpp.obj	7c22551e5507f979
+10	353	6773749057721040	CMakeFiles/untitled.dir/Main.cpp.obj	6d35aada31a0df5a
+353	485	6773749059013766	untitled.exe	f11901b55e6dd3d5
